@@ -14,7 +14,7 @@ The paper is currently under review at **SN Computer Science**.
 
 ## About the Work
 
-In this work, I public Coveo e-commerce clickstream dataset to predict digital frustration in user sessions.
+In this work, I use the public Coveo e-commerce clickstream dataset to predict digital frustration in user sessions.
 
 Frustration is defined using rule-based behavioural signals such as:
 
